@@ -12,7 +12,7 @@ NIM : 152021158
   
 <img width="277" height="617" alt="image" src="https://github.com/user-attachments/assets/f2dad5b4-7306-4fa0-a686-10727045f8dc" />
 
-halanan biodata menampilkan foto, nama, nim, alamat. jenis kelamin, program studi dan tanggal lahir
+halaman biodata menampilkan foto, nama, nim, alamat. jenis kelamin, program studi dan tanggal lahir
 
 -  Halaman Kontak
   
