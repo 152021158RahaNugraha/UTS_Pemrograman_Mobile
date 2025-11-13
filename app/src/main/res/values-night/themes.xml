@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Utsproject" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/my_light_blue_primary</item>
+        <item name="colorSecondary">@color/my_light_blue_primary</item>
+        <item name="colorSecondaryContainer">@color/my_light_blue_highlight_bg</item>
+        <item name="colorOnSecondaryContainer">@color/my_light_blue_highlight_icon</item>
+        <item name="colorControlActivated">@color/my_light_blue_primary</item>
+        <item name="colorSurfaceVariant">@color/my_light_blue_highlight_bg</item>
+
+        <item name="colorAccent">@color/my_light_blue_primary</item>
+
+        <item name="bottomNavigationStyle">@style/Widget.App.BottomNavigationView</item>
+    </style>
+
+    <style name="Theme.Utsproject" parent="Base.Theme.Utsproject" />
+
+
+    <style name="Widget.App.BottomNavigationView" parent="Widget.Material3.BottomNavigationView">
+        <item name="itemIconTint">@null</item>
+        <item name="itemIconSize">30dp</item>
+        <item name="itemBackground">@drawable/bottom_nav_ripple</item>
+        <item name="itemRippleColor">@android:color/transparent</item>
+    </style>
+
+</resources>

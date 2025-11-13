@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="calc_bg">#000000</color>
+    <color name="calc_btn_dark_grey">#333333</color>
+    <color name="calc_btn_light_grey">#A5A5A5</color>
+    <color name="calc_btn_blue">#4285F4</color>
+    <color name="calc_ripple_blue">#8AB4F8</color>
+    <color name="calc_text_white">#FFFFFF</color>
+    <color name="calc_text_black">#000000</color>
+    <color name="calc_ripple_dark">#404040</color>
+    <color name="calc_ripple_light">#B8B8B8</color>
+
+    <color name="calc_light_bg">#F5F5F5</color>
+    <color name="calc_btn_white">#FFFFFF</color>
+    <color name="calc_btn_light_grey_theme">#EAEAEA</color>
+    <color name="calc_text_dark">#222222</color>
+    <color name="calc_ripple_white">#D1D1D1</color>
+    <color name="calc_ripple_light_grey_theme">#C0C0C0</color>
+
+    <color name="window_bg_light_grey">#F5F5F5</color>
+    <color name="input_bg_grey">#EFEFEF</color>
+
+    <color name="weather_dark_blue_start">#3B4B7B</color>
+    <color name="weather_dark_blue_end">#222B45</color>
+    <color name="weather_card_blue">#435283</color>
+
+    <color name="glass_fill">#B3FFFFFF</color>
+    <color name="glass_border">#E6FFFFFF</color>
+
+    <color name="my_light_blue_primary">#64B5F6</color> <color name="my_light_blue_highlight_bg">#E3F2FD</color> <color name="my_light_blue_highlight_icon">#1E88E5</color> </resources>
